@@ -1,0 +1,408 @@
+{
+ "students": [
+  [
+   "AS",
+   "Aarav Sharma",
+   "CSE · 2nd Year",
+   [
+    "AI & ML",
+    "Hackathons",
+    "Python"
+   ],
+   "92%",
+   "Both interested in AI and looking for hackathon teammates.",
+   "",
+   "CC2026001"
+  ],
+  [
+   "PS",
+   "Priya Singh",
+   "CSE · 3rd Year",
+   [
+    "UI/UX",
+    "Startups",
+    "Web Design"
+   ],
+   "89%",
+   "Similar interest in building products and innovative ideas.",
+   "p",
+   "CC2026002"
+  ],
+  [
+   "RK",
+   "Rohan Kumar",
+   "IT · 2nd Year",
+   [
+    "Web Development",
+    "SIH",
+    "React"
+   ],
+   "86%",
+   "Both are exploring hackathons and collaborative projects.",
+   "o",
+   "CC2026003"
+  ],
+  [
+   "KM",
+   "Kavya Mehta",
+   "ECE · 2nd Year",
+   [
+    "Robotics",
+    "IoT",
+    "Design"
+   ],
+   "84%",
+   "Complementary technical interests and shared passion for innovation.",
+   "p",
+   "CC2026004"
+  ],
+  [
+   "DM",
+   "Dev Malhotra",
+   "CSE · 1st Year",
+   [
+    "Cybersecurity",
+    "Linux",
+    "CTF"
+   ],
+   "81%",
+   "Shared interest in learning through hands-on technology challenges.",
+   "",
+   "CC2026005"
+  ],
+  [
+   "AV",
+   "Ananya Verma",
+   "MBA · 1st Year",
+   [
+    "Startups",
+    "Marketing",
+    "Business"
+   ],
+   "78%",
+   "Your goals align around startup ideas and product building.",
+   "o",
+   "CC2026006"
+  ],
+  [
+   "VS",
+   "Vansh Sood",
+   "CSE · 2nd Year",
+   [
+    "Android",
+    "Kotlin",
+    "Hackathons"
+   ],
+   "83%",
+   "Shared interest in building practical apps and joining hackathons.",
+   "",
+   "CC2026007"
+  ],
+  [
+   "MG",
+   "Mehak Gupta",
+   "CSE · 3rd Year",
+   [
+    "Data Science",
+    "Python",
+    "AI & ML"
+   ],
+   "90%",
+   "Strong overlap in AI, Python and data-driven projects.",
+   "p",
+   "CC2026008"
+  ],
+  [
+   "SA",
+   "Siddharth Arora",
+   "ECE · 3rd Year",
+   [
+    "IoT",
+    "Embedded Systems",
+    "Robotics"
+   ],
+   "82%",
+   "Great match for hardware innovation and smart devices.",
+   "o",
+   "CC2026009"
+  ],
+  [
+   "NS",
+   "Nisha Sharma",
+   "IT · 2nd Year",
+   [
+    "Web Development",
+    "UI/UX",
+    "Figma"
+   ],
+   "87%",
+   "Shared interest in creating modern and useful digital products.",
+   "p",
+   "CC2026010"
+  ],
+  [
+   "AB",
+   "Arjun Bansal",
+   "CSE · 1st Year",
+   [
+    "Cybersecurity",
+    "Linux",
+    "Python"
+   ],
+   "79%",
+   "You both enjoy hands-on technical learning and challenges.",
+   "",
+   "CC2026011"
+  ],
+  [
+   "SG",
+   "Simran Gill",
+   "MBA · 1st Year",
+   [
+    "Entrepreneurship",
+    "Marketing",
+    "Startups"
+   ],
+   "76%",
+   "Good fit for startup ideas and business-focused collaboration.",
+   "p",
+   "CC2026012"
+  ],
+  [
+   "KY",
+   "Karan Yadav",
+   "CSE · 3rd Year",
+   [
+    "AI & ML",
+    "React",
+    "Web Development"
+   ],
+   "91%",
+   "Excellent overlap across AI and product development.",
+   "o",
+   "CC2026013"
+  ],
+  [
+   "IG",
+   "Ishita Goel",
+   "Design · 2nd Year",
+   [
+    "UI/UX",
+    "Graphic Design",
+    "Startups"
+   ],
+   "85%",
+   "Complementary creative skills for product and startup teams.",
+   "p",
+   "CC2026014"
+  ],
+  [
+   "RV",
+   "Rahul Verma",
+   "ME · 2nd Year",
+   [
+    "CAD",
+    "Robotics",
+    "3D Design"
+   ],
+   "80%",
+   "Shared interest in innovation, prototyping and hardware projects.",
+   "",
+   "CC2026015"
+  ],
+  [
+   "TM",
+   "Tanisha Malhotra",
+   "CSE · 2nd Year",
+   [
+    "AI & ML",
+    "NLP",
+    "Python"
+   ],
+   "88%",
+   "Strong potential for AI-based research and project collaboration.",
+   "p",
+   "CC2026016"
+  ],
+  [
+   "AD",
+   "Aditya Dhawan",
+   "IT · 3rd Year",
+   [
+    "Cloud",
+    "DevOps",
+    "Web Development"
+   ],
+   "84%",
+   "Complementary skills for building and deploying real projects.",
+   "o",
+   "CC2026017"
+  ],
+  [
+   "KP",
+   "Khushi Patel",
+   "ECE · 1st Year",
+   [
+    "Arduino",
+    "IoT",
+    "Design"
+   ],
+   "77%",
+   "Good match for beginner-friendly hardware projects.",
+   "p",
+   "CC2026018"
+  ]
+ ],
+ "communities": [
+  [
+   "💻",
+   "Coding & Development",
+   "524",
+   "Programming,Projects"
+  ],
+  [
+   "🧠",
+   "AI & Innovation",
+   "245",
+   "AI,Research"
+  ],
+  [
+   "📸",
+   "Photography Society",
+   "186",
+   "Photography,Creative"
+  ],
+  [
+   "🔐",
+   "Cybersecurity Club",
+   "214",
+   "Security,CTF"
+  ],
+  [
+   "🤖",
+   "Robotics & IoT",
+   "198",
+   "Robotics,IoT"
+  ],
+  [
+   "🎨",
+   "Design & UI/UX",
+   "267",
+   "Figma,Design"
+  ],
+  [
+   "🎵",
+   "Music & Performing Arts",
+   "342",
+   "Music,Dance"
+  ],
+  [
+   "🚀",
+   "Entrepreneurship & Startups",
+   "301",
+   "Startups,Business"
+  ],
+  [
+   "⚽",
+   "Sports & Fitness",
+   "415",
+   "Sports,Fitness"
+  ],
+  [
+   "🌍",
+   "Social Impact Club",
+   "173",
+   "Volunteer,Social"
+  ],
+  [
+   "📚",
+   "Book & Debate Society",
+   "156",
+   "Books,Debate"
+  ],
+  [
+   "🎮",
+   "Gaming & Esports",
+   "289",
+   "Gaming,Esports"
+  ]
+ ],
+ "conversations": [
+  {
+   "id": "CC2026002",
+   "name": "Priya Singh",
+   "initial": "PS",
+   "style": "p",
+   "preview": "Great! Let's discuss it here.",
+   "time": "2m",
+   "unread": true,
+   "messages": [
+    [
+     "other",
+     "Hey! I saw that we have similar interests. 👋"
+    ],
+    [
+     "me",
+     "Yes! I'm looking for people to collaborate with."
+    ],
+    [
+     "other",
+     "Great! Let's discuss it here."
+    ]
+   ]
+  },
+  {
+   "id": "CC2026001",
+   "name": "Aarav Sharma",
+   "initial": "AS",
+   "style": "",
+   "preview": "Anyone interested in SIH?",
+   "time": "1h",
+   "unread": true,
+   "messages": [
+    [
+     "other",
+     "Hey! Are you interested in joining our SIH team?"
+    ],
+    [
+     "me",
+     "Yes, definitely! Tell me more about the idea."
+    ]
+   ]
+  },
+  {
+   "id": "CC2026003",
+   "name": "Rohan Kumar",
+   "initial": "RK",
+   "style": "o",
+   "preview": "I can handle the frontend!",
+   "time": "3h",
+   "unread": false,
+   "messages": [
+    [
+     "other",
+     "I can handle the frontend!"
+    ],
+    [
+     "me",
+     "Great, we should connect soon."
+    ]
+   ]
+  },
+  {
+   "id": "CC2026004",
+   "name": "Kavya Mehta",
+   "initial": "KM",
+   "style": "p",
+   "preview": "Sounds interesting 👋",
+   "time": "Yesterday",
+   "unread": false,
+   "messages": [
+    [
+     "other",
+     "Sounds interesting 👋"
+    ]
+   ]
+  }
+ ]
+}

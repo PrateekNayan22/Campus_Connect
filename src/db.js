@@ -2,11 +2,18 @@ const Database = require('better-sqlite3');
 const fs = require('fs');
 const path = require('path');
 
-const file = process.env.DB_PATH || path.join(__dirname, '..', 'data', 'campus.db');
+// Vercel's deployed filesystem is read-only except for /tmp.
+// Keep local development on data/campus.db, but use a writable temp DB on Vercel.
+const file = process.env.DB_PATH || (process.env.VERCEL
+  ? path.join('/tmp', 'campus-connect', 'campus.db')
+  : path.join(__dirname, '..', 'data', 'campus.db'));
+
 fs.mkdirSync(path.dirname(file), { recursive: true });
 
 const db = new Database(file);
-db.pragma('journal_mode = WAL');
+// WAL creates extra files beside the database and is not appropriate for Vercel's
+// ephemeral filesystem. DELETE mode works for the demo serverless runtime.
+db.pragma(process.env.VERCEL ? 'journal_mode = DELETE' : 'journal_mode = WAL');
 db.pragma('foreign_keys = ON');
 
 db.exec(`
